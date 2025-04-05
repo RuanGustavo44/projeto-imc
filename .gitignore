@@ -1,0 +1,3 @@
+node_modules/
+#ignorar o arqivo package-lock.json
+package-lock.json
