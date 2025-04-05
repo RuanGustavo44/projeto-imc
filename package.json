@@ -6,9 +6,9 @@
     "start": "live-server src"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Ruan Gustavo Leite, Ra 2411962",
+  "license": "MIT",
+  "description": "Primeiro projeto de mobile uma calculadora de  IMC",
   "devDependencies": {
     "live-server": "^1.2.2"
   }
